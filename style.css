@@ -1,0 +1,15 @@
+#dog-image-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img{
+    width: auto;
+    max-height: 300px;
+    object-fit: contain;
+}
+
+li{
+    cursor: pointer;
+}
